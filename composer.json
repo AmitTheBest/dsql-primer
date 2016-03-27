@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php": ">=5.5.0",
+        "atk4/dsql": "dev-master"
+    }
+}
