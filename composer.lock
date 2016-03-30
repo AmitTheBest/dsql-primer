@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "e902d741c9b8fd6a725543abe1afb5cf",
-    "content-hash": "73e52cfaf9dd86fa738c97090a6cc793",
+    "hash": "a38c1d5a25719c694f8b6487adcfdea3",
+    "content-hash": "94e2ccccc3b8abad48ff0e9391713e2c",
     "packages": [
         {
             "name": "atk4/dsql",
-            "version": "1.0.0-alpha2",
+            "version": "dev-develop",
             "source": {
                 "type": "git",
                 "url": "https://github.com/atk4/dsql.git",
-                "reference": "f7af975aca1bf3c1c85c1d36a374145921aa56e7"
+                "reference": "4d7b6c4519e4dc439e0fc98cbe81d4c72b42086a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/atk4/dsql/zipball/f7af975aca1bf3c1c85c1d36a374145921aa56e7",
-                "reference": "f7af975aca1bf3c1c85c1d36a374145921aa56e7",
+                "url": "https://api.github.com/repos/atk4/dsql/zipball/4d7b6c4519e4dc439e0fc98cbe81d4c72b42086a",
+                "reference": "4d7b6c4519e4dc439e0fc98cbe81d4c72b42086a",
                 "shasum": ""
             },
             "require": {
@@ -53,14 +53,14 @@
                 "orm",
                 "sql"
             ],
-            "time": "2016-03-27 12:35:04"
+            "time": "2016-03-30 20:21:06"
         }
     ],
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "atk4/dsql": 15
+        "atk4/dsql": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
